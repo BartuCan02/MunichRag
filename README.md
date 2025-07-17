@@ -10,16 +10,6 @@ This project is a simple but functional **Retrieval-Augmented Generation (RAG)**
 - Retrieves the top-k relevant passages for a user query
 - Displays a simulated answer with full context and source traceability
 
-## 📂 Project Structure
-
-MunichRAG/
-├── data/ # Your .md files (knowledge base)
-│ ├── Munich.md
-│ ├── Bavaria.md
-│ └── Roman_Empire.md
-├── rag_pipeline.py # Main script
-├── rag_env/ # Python virtual environment (not pushed to GitHub)
-└── README.md
 
 
 
